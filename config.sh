@@ -1,0 +1,1 @@
+OUTPUT_FILE=/var/log/asterisk/ami.log

@@ -1,0 +1,11 @@
+{
+  "name": "ami2file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tremez/ami2file.git",
+  "author": "Taras Remez <taras.remez@telix.com.ua>",
+  "license": "MIT",
+  "dependencies": {
+    "ami-io": "^1.2.1"
+  }
+}
